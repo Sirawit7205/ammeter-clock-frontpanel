@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ampmeter_clock_frontpanel)(type KiCad)(uri ${KIPRJMOD}/pretty/ampmeter_clock_frontpanel.pretty)(options "")(descr ""))
+)
